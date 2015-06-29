@@ -1,0 +1,23 @@
+Instructions
+Homework #3   
+
+This homework is about using Apache Pig.   
+
+Part #1   
+* Rewrite homework #2 part 2 in Pig   
+
+Part #2   
+* For each year, find a movie with highest weight and the actors played in that movie   
+* Expected output:  year, movie title, weight, (semicolon separated list of actors)  and should be ordered by year
+
+* You may have to use nested foreach - http://pig.apache.org/docs/r0.10.0/basic.html#foreach  
+
+*  Use the BagToString function to generate a semicolon list of actors
+
+ 
+
+Submit your pig scripts and the output.   
+
+Please let me know if you have any questions.   
+
+Hien
